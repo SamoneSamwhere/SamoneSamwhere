@@ -16,13 +16,10 @@
 
 ### ▸ featured projects
 
-**[RescueEye](https://github.com/SamoneSamwhere/RescueEye)** — an AI-assisted disaster response platform. Drone footage is analysed for possible casualties and damage, and the nearest responders are dispatched. Capstone project, built as a team of four.
-
-<img src="https://img.shields.io/badge/React-d63c78?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-d63c78?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-d63c78?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-d63c78?style=flat-square&logo=supabase&logoColor=white" />
-
-**[CampusGear](https://github.com/SamoneSamwhere/CampusGear)** — a web system for reserving and borrowing school equipment. Students check availability and track items; custodians manage requests, returns and equipment condition.
-
-<img src="https://img.shields.io/badge/C%23-d63c78?style=flat-square&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/.NET-d63c78?style=flat-square&logo=dotnet&logoColor=white" />
+<p align="center">
+  <a href="https://github.com/SamoneSamwhere/RescueEye"><img src="./assets/card-rescueeye.svg" width="49%" alt="RescueEye: AI-assisted disaster response platform" /></a>
+  <a href="https://github.com/SamoneSamwhere/CampusGear"><img src="./assets/card-campusgear.svg" width="49%" alt="CampusGear: school equipment reservation system" /></a>
+</p>
 
 ### ▸ skills
 
