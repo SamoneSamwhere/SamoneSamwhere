@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1200&color=D63C78&center=true&vCenter=true&width=520&height=36&lines=hi!+i'm+samantha;BSIT+student;learning+by+building" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1200&color=D63C78&center=true&vCenter=true&width=520&height=36&lines=Hi!+I'm+Samantha+Cortes;BSIT+student;learning+by+building" alt="typing intro" />
 </p>
 
 <p align="center"><img src="./assets/divider.svg" alt="" /></p>
